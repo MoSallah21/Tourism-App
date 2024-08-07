@@ -1,6 +1,6 @@
 # tourismapp
 
-A new Flutter project.
+A Tourism Flutter App Ui.
 
 ## Getting Started
 
